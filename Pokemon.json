@@ -1,6 +1,6 @@
 {
-  "name": "Pokémon Aura Neon Ultra",
-  "description": "Lucario neon glow ultra smooth UI",
+  "name": "Pokémon Pure AMOLED Black",
+  "description": "Ultra clean black theme with Lucario wallpaper",
   "authors": [
     {
       "name": "Mak Din",
@@ -9,53 +9,53 @@
   ],
 
   "semanticColors": {
-    "BACKGROUND_TERTIARY": ["#071521"],
-    "BACKGROUND_ACCENT": ["#0d2b40"],
-    "BACKGROUND_SECONDARY": ["#071521"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#123c57"],
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_ACCENT": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#000000"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#0a0a0a"],
 
-    "DIVIDER_STRONG": ["#1fb6ff"],
-    "DIVIDER_SUBTLE": ["#0d2b40"],
-    "BORDER_SUBTLE": ["#1fb6ff"],
+    "DIVIDER_STRONG": ["#000000"],
+    "DIVIDER_SUBTLE": ["#000000"],
+    "BORDER_SUBTLE": ["#000000"],
 
-    "SPOILER_HIDDEN_BACKGROUND": ["#0d2b40"],
-    "SPOILER_REVEALED_BACKGROUND": ["#0d2b40"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#0a0a0a"],
+    "SPOILER_REVEALED_BACKGROUND": ["#0a0a0a"],
 
     "STATUS_DND": ["#ff4d4d"],
-    "STATUS_IDLE": ["#ffe066"],
-    "STATUS_ONLINE": ["#00ffaa"],
+    "STATUS_IDLE": ["#aaaaaa"],
+    "STATUS_ONLINE": ["#ffffff"],
     "STATUS_OFFLINE": ["#1a1a1a"],
 
-    "TEXT_NORMAL": ["#e6f7ff"],
+    "TEXT_NORMAL": ["#ffffff"],
     "TEXT_PRIMARY": ["#ffffff"],
-    "TEXT_SECONDARY": ["#33cfff"],
-    "TEXT_MUTED": ["#66aacc"],
-    "TEXT_LINK": ["#00e0ff"],
+    "TEXT_SECONDARY": ["#cccccc"],
+    "TEXT_MUTED": ["#777777"],
+    "TEXT_LINK": ["#ffffff"],
 
-    "MENTION_BADGE": ["#00e0ff"],
-    "REDESIGN_MENTION_BADGE": ["#00e0ff"],
+    "MENTION_BADGE": ["#ffffff"],
+    "REDESIGN_MENTION_BADGE": ["#ffffff"],
 
-    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#071521"],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#071521"]
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#000000"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#000000"]
   },
 
   "rawColors": {
-    "PRIMARY_500": "#00e0ff",
-    "PRIMARY_600": "#00c8ff",
-    "PRIMARY_700": "#00aaff",
-    "BRAND_500": "#33cfff",
+    "PRIMARY_500": "#000000",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_700": "#000000",
+    "BRAND_500": "#ffffff",
 
     "RED_430": "#ff4d4d",
-    "PLUM_14": "#0d2b40",
-    "PRIMARY_800": "#071521",
+    "PLUM_14": "#0a0a0a",
+    "PRIMARY_800": "#000000",
 
-    "BLACK_500": "#00000090"
+    "BLACK_500": "#000000"
   },
 
   "background": {
     "url": "https://i.ibb.co/k2VKmTTQ/fcf765d72c68f76ac644614633d15c6b.jpg",
-    "blur": 0.45,
-    "alpha": 0.30,
+    "blur": 0.35,
+    "alpha": 0.25,
     "size": "cover",
     "position": "center"
   },
@@ -67,5 +67,5 @@
 
   "spec": 2,
   "createdAt": "2026-04-17",
-  "source": "ultra"
+  "source": "amoled"
 }
