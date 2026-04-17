@@ -1,6 +1,6 @@
 {
-  "name": "Pokémon Sky Dream Theme",
-  "description": "Ash & Pikachu rainbow sky aesthetic",
+  "name": "Pokémon Aura Neon Ultra",
+  "description": "Lucario neon glow ultra smooth UI",
   "authors": [
     {
       "name": "Mak Din",
@@ -9,53 +9,53 @@
   ],
 
   "semanticColors": {
-    "BACKGROUND_TERTIARY": ["#0a1a2a"],
-    "BACKGROUND_ACCENT": ["#102a43"],
-    "BACKGROUND_SECONDARY": ["#0a1a2a"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#1c3d5a"],
+    "BACKGROUND_TERTIARY": ["#071521"],
+    "BACKGROUND_ACCENT": ["#0d2b40"],
+    "BACKGROUND_SECONDARY": ["#071521"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#123c57"],
 
-    "DIVIDER_STRONG": ["#1c3d5a"],
-    "DIVIDER_SUBTLE": ["#102a43"],
-    "BORDER_SUBTLE": ["#1c3d5a"],
+    "DIVIDER_STRONG": ["#1fb6ff"],
+    "DIVIDER_SUBTLE": ["#0d2b40"],
+    "BORDER_SUBTLE": ["#1fb6ff"],
 
-    "SPOILER_HIDDEN_BACKGROUND": ["#102a43"],
-    "SPOILER_REVEALED_BACKGROUND": ["#102a43"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#0d2b40"],
+    "SPOILER_REVEALED_BACKGROUND": ["#0d2b40"],
 
-    "STATUS_DND": ["#ff5959"],
-    "STATUS_IDLE": ["#ffd93d"],
-    "STATUS_ONLINE": ["#6bcf63"],
-    "STATUS_OFFLINE": ["#2a2a2a"],
+    "STATUS_DND": ["#ff4d4d"],
+    "STATUS_IDLE": ["#ffe066"],
+    "STATUS_ONLINE": ["#00ffaa"],
+    "STATUS_OFFLINE": ["#1a1a1a"],
 
-    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_NORMAL": ["#e6f7ff"],
     "TEXT_PRIMARY": ["#ffffff"],
-    "TEXT_SECONDARY": ["#7fd4ff"],
-    "TEXT_MUTED": ["#a0c4de"],
-    "TEXT_LINK": ["#4dabf7"],
+    "TEXT_SECONDARY": ["#33cfff"],
+    "TEXT_MUTED": ["#66aacc"],
+    "TEXT_LINK": ["#00e0ff"],
 
-    "MENTION_BADGE": ["#ffd93d"],
-    "REDESIGN_MENTION_BADGE": ["#ffd93d"],
+    "MENTION_BADGE": ["#00e0ff"],
+    "REDESIGN_MENTION_BADGE": ["#00e0ff"],
 
-    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#0a1a2a"],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#0a1a2a"]
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#071521"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#071521"]
   },
 
   "rawColors": {
-    "PRIMARY_500": "#4dabf7",
-    "PRIMARY_600": "#339af0",
-    "PRIMARY_700": "#1c7ed6",
-    "BRAND_500": "#ffd93d",
+    "PRIMARY_500": "#00e0ff",
+    "PRIMARY_600": "#00c8ff",
+    "PRIMARY_700": "#00aaff",
+    "BRAND_500": "#33cfff",
 
-    "RED_430": "#ff5959",
-    "PLUM_14": "#102a43",
-    "PRIMARY_800": "#0a1a2a",
+    "RED_430": "#ff4d4d",
+    "PLUM_14": "#0d2b40",
+    "PRIMARY_800": "#071521",
 
-    "BLACK_500": "#00000080"
+    "BLACK_500": "#00000090"
   },
 
   "background": {
-    "url": "https://i.ibb.co/847QqNn7/image.jpg",
-    "blur": 0.3,
-    "alpha": 0.2,
+    "url": "https://i.ibb.co/k2VKmTTQ/fcf765d72c68f76ac644614633d15c6b.jpg",
+    "blur": 0.45,
+    "alpha": 0.30,
     "size": "cover",
     "position": "center"
   },
@@ -67,5 +67,5 @@
 
   "spec": 2,
   "createdAt": "2026-04-17",
-  "source": "custom"
+  "source": "ultra"
 }
