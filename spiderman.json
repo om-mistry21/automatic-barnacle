@@ -1,6 +1,6 @@
 {
-  "name": "Spider-Man 2 AMOLED Animated",
-  "description": "Spider-Man 2 Game Style Theme",
+  "name": "Rainbow Sky AMOLED Theme",
+  "description": "Custom background theme by Om",
   "authors": [
     {
       "name": "Om",
@@ -15,36 +15,36 @@
     "BACKGROUND_MODIFIER_ACCENT": ["#141414"],
 
     "TEXT_PRIMARY": ["#ffffff"],
-    "TEXT_SECONDARY": ["#d9d9d9"],
+    "TEXT_SECONDARY": ["#e0e0e0"],
     "TEXT_MUTED": ["#8c8c8c"],
 
-    "TEXT_LINK": ["#ff1a1a"],
-    "TEXT_LINK_LOW_SATURATION": ["#ff4d4d"],
+    "TEXT_LINK": ["#00c3ff"],
+    "TEXT_LINK_LOW_SATURATION": ["#66d9ff"],
 
-    "STATUS_ONLINE": ["#ff1a1a"],
-    "STATUS_IDLE": ["#4da6ff"],
-    "STATUS_DND": ["#ff0000"],
+    "STATUS_ONLINE": ["#00ffcc"],
+    "STATUS_IDLE": ["#ffd166"],
+    "STATUS_DND": ["#ff4d4d"],
     "STATUS_OFFLINE": ["#262626"],
 
-    "INTERACTIVE_NORMAL": ["#ff1a1a"],
-    "INTERACTIVE_HOVER": ["#ff3333"],
+    "INTERACTIVE_NORMAL": ["#00c3ff"],
+    "INTERACTIVE_HOVER": ["#33ccff"],
     "INTERACTIVE_ACTIVE": ["#ffffff"],
     "INTERACTIVE_MUTED": ["#666666"],
 
-    "SCROLLBAR_THIN_THUMB": ["#ff1a1a"],
+    "SCROLLBAR_THIN_THUMB": ["#00c3ff"],
     "SCROLLBAR_THIN_TRACK": ["#000000"],
 
     "CHAT_INPUT_CONTAINER_BACKGROUND": ["#000000"],
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#0d0d0d"],
 
-    "MENTION_BADGE": ["#ff1a1a"],
-    "REDESIGN_MENTION_BADGE": ["#ff1a1a"]
+    "MENTION_BADGE": ["#00c3ff"],
+    "REDESIGN_MENTION_BADGE": ["#00c3ff"]
   },
 
   "background": {
-    "url": "https://images.alphacoders.com/131/1313841.jpeg",
+    "url": "https://i.ibb.co/JRk6m0K/IMG-20260417-WA0000.jpg",
     "blur": 0.6,
-    "alpha": 0.3,
+    "alpha": 0.35,
     "size": "cover",
     "position": "center"
   },
