@@ -1,0 +1,71 @@
+{
+  "name": "Pokémon Sky Dream Theme",
+  "description": "Ash & Pikachu rainbow sky aesthetic",
+  "authors": [
+    {
+      "name": "Mak Din",
+      "id": "custom"
+    }
+  ],
+
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": ["#0a1a2a"],
+    "BACKGROUND_ACCENT": ["#102a43"],
+    "BACKGROUND_SECONDARY": ["#0a1a2a"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#1c3d5a"],
+
+    "DIVIDER_STRONG": ["#1c3d5a"],
+    "DIVIDER_SUBTLE": ["#102a43"],
+    "BORDER_SUBTLE": ["#1c3d5a"],
+
+    "SPOILER_HIDDEN_BACKGROUND": ["#102a43"],
+    "SPOILER_REVEALED_BACKGROUND": ["#102a43"],
+
+    "STATUS_DND": ["#ff5959"],
+    "STATUS_IDLE": ["#ffd93d"],
+    "STATUS_ONLINE": ["#6bcf63"],
+    "STATUS_OFFLINE": ["#2a2a2a"],
+
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_PRIMARY": ["#ffffff"],
+    "TEXT_SECONDARY": ["#7fd4ff"],
+    "TEXT_MUTED": ["#a0c4de"],
+    "TEXT_LINK": ["#4dabf7"],
+
+    "MENTION_BADGE": ["#ffd93d"],
+    "REDESIGN_MENTION_BADGE": ["#ffd93d"],
+
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#0a1a2a"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#0a1a2a"]
+  },
+
+  "rawColors": {
+    "PRIMARY_500": "#4dabf7",
+    "PRIMARY_600": "#339af0",
+    "PRIMARY_700": "#1c7ed6",
+    "BRAND_500": "#ffd93d",
+
+    "RED_430": "#ff5959",
+    "PLUM_14": "#102a43",
+    "PRIMARY_800": "#0a1a2a",
+
+    "BLACK_500": "#00000080"
+  },
+
+  "background": {
+    "url": "https://i.ibb.co/847QqNn7/image.jpg",
+    "blur": 0.3,
+    "alpha": 0.2,
+    "size": "cover",
+    "position": "center"
+  },
+
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+
+  "spec": 2,
+  "createdAt": "2026-04-17",
+  "source": "custom"
+}
