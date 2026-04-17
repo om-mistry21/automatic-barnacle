@@ -1,0 +1,60 @@
+{
+  "name": "Spider-Man 2 AMOLED Animated",
+  "description": "Spider-Man 2 Game Style Theme",
+  "authors": [
+    {
+      "name": "Om",
+      "id": "0000000000"
+    }
+  ],
+
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#000000"],
+    "BACKGROUND_ACCENT": ["#0d0d0d"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#141414"],
+
+    "TEXT_PRIMARY": ["#ffffff"],
+    "TEXT_SECONDARY": ["#d9d9d9"],
+    "TEXT_MUTED": ["#8c8c8c"],
+
+    "TEXT_LINK": ["#ff1a1a"],
+    "TEXT_LINK_LOW_SATURATION": ["#ff4d4d"],
+
+    "STATUS_ONLINE": ["#ff1a1a"],
+    "STATUS_IDLE": ["#4da6ff"],
+    "STATUS_DND": ["#ff0000"],
+    "STATUS_OFFLINE": ["#262626"],
+
+    "INTERACTIVE_NORMAL": ["#ff1a1a"],
+    "INTERACTIVE_HOVER": ["#ff3333"],
+    "INTERACTIVE_ACTIVE": ["#ffffff"],
+    "INTERACTIVE_MUTED": ["#666666"],
+
+    "SCROLLBAR_THIN_THUMB": ["#ff1a1a"],
+    "SCROLLBAR_THIN_TRACK": ["#000000"],
+
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#000000"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#0d0d0d"],
+
+    "MENTION_BADGE": ["#ff1a1a"],
+    "REDESIGN_MENTION_BADGE": ["#ff1a1a"]
+  },
+
+  "background": {
+    "url": "https://images.alphacoders.com/131/1313841.jpeg",
+    "blur": 0.6,
+    "alpha": 0.3,
+    "size": "cover",
+    "position": "center"
+  },
+
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+
+  "spec": 2,
+  "createdAt": "2026-04-17",
+  "source": "local"
+}
