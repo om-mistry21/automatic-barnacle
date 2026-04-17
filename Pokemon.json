@@ -1,6 +1,6 @@
 {
-  "name": "Pokémon Pure AMOLED Black",
-  "description": "Ultra clean black theme with Lucario wallpaper",
+  "name": "AMOLED Black + Red Links",
+  "description": "Pure black UI with Lucario wallpaper and red links only",
   "authors": [
     {
       "name": "Mak Din",
@@ -12,28 +12,30 @@
     "BACKGROUND_TERTIARY": ["#000000"],
     "BACKGROUND_ACCENT": ["#000000"],
     "BACKGROUND_SECONDARY": ["#000000"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#0a0a0a"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#000000"],
 
     "DIVIDER_STRONG": ["#000000"],
     "DIVIDER_SUBTLE": ["#000000"],
     "BORDER_SUBTLE": ["#000000"],
 
-    "SPOILER_HIDDEN_BACKGROUND": ["#0a0a0a"],
-    "SPOILER_REVEALED_BACKGROUND": ["#0a0a0a"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#000000"],
+    "SPOILER_REVEALED_BACKGROUND": ["#000000"],
 
-    "STATUS_DND": ["#ff4d4d"],
-    "STATUS_IDLE": ["#aaaaaa"],
-    "STATUS_ONLINE": ["#ffffff"],
-    "STATUS_OFFLINE": ["#1a1a1a"],
+    "STATUS_DND": ["#ff0000"],
+    "STATUS_IDLE": ["#444444"],
+    "STATUS_ONLINE": ["#888888"],
+    "STATUS_OFFLINE": ["#111111"],
 
-    "TEXT_NORMAL": ["#ffffff"],
-    "TEXT_PRIMARY": ["#ffffff"],
-    "TEXT_SECONDARY": ["#cccccc"],
-    "TEXT_MUTED": ["#777777"],
-    "TEXT_LINK": ["#ffffff"],
+    "TEXT_NORMAL": ["#cccccc"],
+    "TEXT_PRIMARY": ["#cccccc"],
+    "TEXT_SECONDARY": ["#888888"],
+    "TEXT_MUTED": ["#555555"],
 
-    "MENTION_BADGE": ["#ffffff"],
-    "REDESIGN_MENTION_BADGE": ["#ffffff"],
+    "TEXT_LINK": ["#ff0000"],  
+    "TEXT_LINK_LOW_SATURATION": ["#ff0000"],
+
+    "MENTION_BADGE": ["#ff0000"],
+    "REDESIGN_MENTION_BADGE": ["#ff0000"],
 
     "CHAT_INPUT_CONTAINER_BACKGROUND": ["#000000"],
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#000000"]
@@ -43,10 +45,10 @@
     "PRIMARY_500": "#000000",
     "PRIMARY_600": "#000000",
     "PRIMARY_700": "#000000",
-    "BRAND_500": "#ffffff",
+    "BRAND_500": "#ff0000",
 
-    "RED_430": "#ff4d4d",
-    "PLUM_14": "#0a0a0a",
+    "RED_430": "#ff0000",
+    "PLUM_14": "#000000",
     "PRIMARY_800": "#000000",
 
     "BLACK_500": "#000000"
@@ -55,7 +57,7 @@
   "background": {
     "url": "https://i.ibb.co/k2VKmTTQ/fcf765d72c68f76ac644614633d15c6b.jpg",
     "blur": 0.35,
-    "alpha": 0.25,
+    "alpha": 0.20,
     "size": "cover",
     "position": "center"
   },
@@ -67,5 +69,5 @@
 
   "spec": 2,
   "createdAt": "2026-04-17",
-  "source": "amoled"
+  "source": "ultra_black"
 }
